@@ -9,7 +9,7 @@ redirect_from:
 
 ## Developing AI models to support scientific discovery
 
-I'm a PhD student at the University of Michigan, developing simulation-grounded foundation models for scientific discovery. My research spans epidemiology, chemistry, and social science, with a focus on enabling interpretable and generalizable predictions.
+I'm a PhD student at the University of Michigan developing simulation-grounded foundation models for scientific discovery. My research spans epidemiology, chemistry, and social science, with a focus on enabling interpretable and generalizable predictions.
 
 My work includes:
 - **SGNNs**: A general framework that uses mechanistic simulations as synthetic supervision to train neural networks for scientific tasks—enabling forecasting, classification, and inference even when real-world data is sparse, noisy, or missing. SGNNs unify the interpretability of mechanistic models with the flexibility of deep learning, and introduce back-to-simulation attribution: a new form of mechanistic interpretability.
