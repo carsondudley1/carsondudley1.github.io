@@ -1,5 +1,5 @@
 ---
-title: "Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery"
+title: "Simulationas Supervision: Mechanistic Pretraining for Scientific Discovery"
 collection: publications
 category: manuscripts
 external_url: 'https://arxiv.org/abs/2507.08977'
