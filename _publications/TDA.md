@@ -2,7 +2,7 @@
 title: "Characterizing Emerging Features in Cell Dynamics Using Topological Data Analysis Methods"
 collection: publications
 category: manuscripts
-permalink: /publication/TDA
+external_url: 'https://www.aimspress.com/article/doi/10.3934/mbe.2023143'
 excerpt: 'Developed a method using topological data analysis to track and quantify dynamic structural changes in cellular filament networks over time, enabling new insights into biological processes like wound healing and the effects of experimental perturbations.'
 date: 2022-12-01
 venue: 'Mathematical Biosciences and Engineering'
