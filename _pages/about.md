@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Carson Dudley | AI for Science"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
