@@ -2,7 +2,7 @@
 title: "Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery"
 collection: publications
 category: manuscripts
-permalink: /publication/SGNNs
+external_url: 'https://arxiv.org/abs/2507.08977'
 excerpt: 'Introduced Simulation-Grounded Neural Networks (SGNNs), a new modeling framework that uses mechanistic simulations to train neural networks, combining the interpretability of scientific theory with the flexibility of deep learning. SGNNs deliver state-of-the-art performance across disciplines—from forecasting epidemics to inferring hidden variables—while offering a novel form of mechanistic interpretability.'
 date: 2025-07-11
 venue: 'arXiv'
