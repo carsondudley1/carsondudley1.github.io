@@ -16,6 +16,8 @@ My work includes:
 - **Mantis**: A foundation model for infectious disease forecasting that outperforms baselines across 35+ evaluations.
 - **Optic**: A real-time disease surveillance system that combines simulation-pretrained detection models with robust anomaly and seasonality analysis. Optic achieves state-of-the-art outbreak detection accuracy and requires no disease- or region-specific training—enabling immediate deployment in low-resource public health departments without tuning.
 
+I'm currently working on solving some new technical problems with SGNNs and extending their applications into precision oncology.
+
 
 📄 [View my CV](/cv/)  
 📚 [See my publications](/publications/)
