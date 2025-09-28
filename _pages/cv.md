@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied and Interdisciplinary Mathematics, University of Michigan, 2027 (expected)
+* Ph.D in Applied and Interdisciplinary Mathematics, University of Michigan, 2026 (expected)
 * B.A. in Mathematics, Duke University, 2023
   
 
